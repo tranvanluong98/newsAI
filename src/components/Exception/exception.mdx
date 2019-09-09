@@ -1,0 +1,23 @@
+---
+name: Exception
+menu: Components
+route: /components/exception
+---
+import { Playground, Props } from 'docz';
+import Exception from './index';
+import { Button, Link } from 'antd';
+
+# Exception
+
+Thành phần Exception sử dụng để render ra trang thông báo exception cơ bản cho người dùng
+
+<Props of={Exception} />
+
+## 403 Exception
+
+<Playground>
+  <Exception
+    type="403"
+    linkElement={Link}
+  />
+</Playground>

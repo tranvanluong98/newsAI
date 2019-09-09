@@ -1,0 +1,7 @@
+export const AUTH_LOGIN = 'AUTH/AUTH_LOGIN';
+export const AUTH_LOGOUT = 'AUTH/AUTH_LOGIN';
+export const AUTH_CHECK = 'AUTH/CHECK';
+export const AUTH_ERROR = 'AUTH/ERROR';
+export const AUTH_CHANGE_PASS = 'AUTH/CHANGE_PASS';
+export const AUTH_GET_PERMISSIONS = 'AUTH/GET_PERMISSIONS';
+export const AUTH_FORGOT_PASSWORD = 'AUTH/FOR_GOT_PASS';

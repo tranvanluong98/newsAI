@@ -1,0 +1,18 @@
+export default {
+  'app.monitor.trading-activity': 'Hoạt động giao dịch thời gian thực',
+  'app.monitor.total-transactions': 'Tổng số giao dịch hôm nay',
+  'app.monitor.sales-target': 'Tỷ lệ hoàn thành mục tiêu bán hàng',
+  'app.monitor.remaining-time': 'Thời gian còn lại của hoạt động',
+  'app.monitor.total-transactions-per-second': 'Tổng số giao dịch mỗi giấy',
+  'app.monitor.activity-forecast': 'Dự báo hoạt động',
+  'app.monitor.efficiency': 'Hiệu quả',
+  'app.monitor.ratio': 'Tỷ lệ',
+  'app.monitor.proportion-per-category': 'Tỷ lệ trên mỗi danh mục',
+  'app.monitor.fast-food': 'Fast food',
+  'app.monitor.western-food': 'Western food',
+  'app.monitor.hot-pot': 'Hot pot',
+  'app.monitor.waiting-for-implementation': 'Chờ đợi để thực hiện',
+  'app.monitor.popular-searches': 'Tìm kiếm phổ biến',
+  'app.monitor.resource-surplus': 'Số dư tài nguyên',
+  'app.monitor.fund-surplus': 'Số dư quỹ',
+};

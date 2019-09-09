@@ -1,0 +1,54 @@
+[
+  {
+    "category": {
+      "id": "1",
+      "name": "Hạng mục tường vây"
+    },
+    "content": [
+      {
+        "name": "Trát tường trong, dày 1,5 cm, vữa XM mác 50",
+        "quantity": "77,841.53",
+        "unitPrice": "128,320",
+        "totalPrice": "9,999,625,130"
+      },
+      {
+        "name": "Trát tường trong, dày 1,5 cm, vữa XM mác 50",
+        "quantity": "77,841.53",
+        "unitPrice": "128,320",
+        "totalPrice": "9,999,625,130"
+      },
+      {
+        "name": "Trát tường trong, dày 1,5 cm, vữa XM mác 50",
+        "quantity": "77,841.53",
+        "unitPrice": "128,320",
+        "totalPrice": "9,999,625,130"
+      }
+    ]
+  },
+  {
+    "category": {
+      "id": "2",
+      "name": "Hạng mục cảnh quan"
+    },
+    "content": [
+      {
+        "name": "Trát tường trong, dày 1,5 cm, vữa XM mác 50",
+        "quantity": "77,841.53",
+        "unitPrice": "128,320",
+        "totalPrice": "9,999,625,130"
+      },
+      {
+        "name": "Trát tường trong, dày 1,5 cm, vữa XM mác 50",
+        "quantity": "77,841.53",
+        "unitPrice": "128,320",
+        "totalPrice": "9,999,625,130"
+      },
+      {
+        "name": "Trát tường trong, dày 1,5 cm, vữa XM mác 50",
+        "quantity": "77,841.53",
+        "unitPrice": "128,320",
+        "totalPrice": "9,999,625,130"
+      }
+    ]
+  }
+]

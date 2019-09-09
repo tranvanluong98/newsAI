@@ -1,0 +1,1959 @@
+[
+  {
+    "id": 1,
+    "contractSome": "HD/100/2000",
+    "contractName": "Xây thô tòa nhà S1,S2SD3",
+    "package": {
+      "id": "p1",
+      "name": "Xây thô"
+    },
+    "capital": {
+      "id": "c1",
+      "name": "Vốn vay"
+    },
+    "categori": {
+      "id": "ca1",
+      "name": "Xây dựng"
+    },
+    "partner": {
+      "id": "pa1",
+      "name": "Hòa Bình Construction"
+    },
+    "contractType": {
+      "id": "co1",
+      "name": "Hợp đồng nội bộ"
+    },
+    "contractStatus": {
+      "id": "cont1",
+      "name": "Đang thực hiện"
+    },
+    "categoryPrice": {
+      "id": "cP1",
+      "name": "Thí nghiệm cọc khoan nhồi"
+    },
+    "category": {
+      "id": "cc1",
+      "name": "Tường vây"
+    },
+    "content": "Trát tường trong, dày 1.5 cm, vữa XM mác 50",
+    "unit": {
+      "id": "u1",
+      "name": "m3"
+    },
+    "appendixContractNumber": "PL/190/337/UB",
+    "nameAppendixContract": "Phụ lục hợp đồng xây dựng tòa nhà S1,S2,D2",
+    "dateSignAppendixContract": "10/10/2019",
+    "executionDate": "10/10/2019",
+    "expectedEnDate": "10/10/2019",
+    "ecceptanceDate": "10/10/2019",
+    "liquidationDate": "10/10/2019",
+    "actualStartDate": "10/10/2019",
+    "actualEndDate": "10/10/2019",
+    "adjustValue": "100,000,000",
+    "statusContract": {
+      "name": "Đang thực hiện",
+      "id": "sc1"
+    },
+    "expenseItem": "Chi phí mô hình",
+    "group": {
+      "id": "g1",
+      "name": "Chi phí chuẩn bị"
+    },
+    "unitModel": "cái",
+    "distribute": {
+      "id": "di1",
+      "name": "Nhà thầu nội bộ"
+    },
+    "contractValue": "100,000,000,000",
+    "appendix": "(3)",
+    "code": "00001",
+    "activity": "Xây dựng",
+    "accountNumber": "111111",
+    "bank": "BIDV",
+    "address": "Hai Bà Trưng, Hà Nội",
+    "price": "82,567",
+    "mass": "8,000",
+    "vatCost": "660,592,000",
+    "taxt": "66,059,200",
+    "post-taxCost": "726,651,200",
+    "massdeviation": "-8,000",
+    "moneydeviation": "-726,651,200",
+    "paid": "80,000,000",
+    "waitPay": "20,000,000",
+    "proposeDay": "10/10/2019",
+    "payApproval": "20,000,000",
+    "status": "duyệt"
+  },
+  {
+    "id": 2,
+    "contractSome": "HD/100/2000",
+    "contractName": "Xây thô tòa nhà S1,S2SD3",
+    "package": {
+      "id": "p1",
+      "name": "Xây thô"
+    },
+    "capital": {
+      "id": "c1",
+      "name": "Vốn vay"
+    },
+    "categori": {
+      "id": "ca1",
+      "name": "Xây dựng"
+    },
+    "partner": {
+      "id": "pa1",
+      "name": "Hòa Bình Construction"
+    },
+    "contractType": {
+      "id": "co1",
+      "name": "Hợp đồng nội bộ"
+    },
+    "contractStatus": {
+      "id": "cont1",
+      "name": "Đang thực hiện"
+    },
+    "categoryPrice": {
+      "id": "cP1",
+      "name": "Thí nghiệm cọc khoan nhồi"
+    },
+    "category": {
+      "id": "cc1",
+      "name": "Tường vây"
+    },
+    "content": "Trát tường trong, dày 1.5 cm, vữa XM mác 50",
+    "unit": {
+      "id": "u1",
+      "name": "m3"
+    },
+    "appendixContractNumber": "PL/190/337/UB",
+    "nameAppendixContract": "Phụ lục hợp đồng xây dựng tòa nhà S1,S2,D2",
+    "dateSignAppendixContract": "10/10/2019",
+    "executionDate": "10/10/2019",
+    "expectedEnDate": "10/10/2019",
+    "ecceptanceDate": "10/10/2019",
+    "liquidationDate": "10/10/2019",
+    "actualStartDate": "10/10/2019",
+    "actualEndDate": "10/10/2019",
+    "adjustValue": "100,000,000",
+    "statusContract": {
+      "name": "Đang thực hiện",
+      "id": "sc1"
+    },
+    "expenseItem": "Chi phí mô hình",
+    "group": {
+      "id": "g1",
+      "name": "Chi phí chuẩn bị"
+    },
+    "unitModel": "cái",
+    "distribute": {
+      "id": "di1",
+      "name": "Nhà thầu nội bộ"
+    },
+    "contractValue": "100,000,000,000",
+    "appendix": "(3)",
+    "code": "00001",
+    "activity": "Xây dựng",
+    "accountNumber": "111111",
+    "bank": "BIDV",
+    "address": "Hai Bà Trưng, Hà Nội",
+    "price": "82,567",
+    "mass": "8,000",
+    "vatCost": "660,592,000",
+    "taxt": "66,059,200",
+    "post-taxCost": "726,651,200",
+    "massdeviation": "-8,000",
+    "moneydeviation": "-726,651,200",
+    "paid": "80,000,000",
+    "waitPay": "20,000,000",
+    "proposeDay": "10/10/2019",
+    "payApproval": "20,000,000",
+    "status": "duyệt"
+  },
+  {
+    "id": 3,
+    "contractSome": "HD/300/3000",
+    "contractName": "Xây thô tòa nhà S1,S2SD3",
+    "package": {
+      "id": "p1",
+      "name": "Xây thô"
+    },
+    "capital": {
+      "id": "c1",
+      "name": "Vốn vay"
+    },
+    "categori": {
+      "id": "ca1",
+      "name": "Xây dựng"
+    },
+    "partner": {
+      "id": "pa1",
+      "name": "Hòa Bình Construction"
+    },
+    "contractType": {
+      "id": "co1",
+      "name": "Hợp đồng nội bộ"
+    },
+    "contractStatus": {
+      "id": "cont1",
+      "name": "Đang thực hiện"
+    },
+    "categoryPrice": {
+      "id": "cP1",
+      "name": "Thí nghiệm cọc khoan nhồi"
+    },
+    "category": {
+      "id": "cc1",
+      "name": "Tường vây"
+    },
+    "content": "Trát tường trong, dày 1.5 cm, vữa XM mác 50",
+    "unit": {
+      "id": "u1",
+      "name": "m3"
+    },
+    "appendixContractNumber": "PL/190/337/UB",
+    "nameAppendixContract": "Phụ lục hợp đồng xây dựng tòa nhà S1,S2,D2",
+    "dateSignAppendixContract": "10/10/2019",
+    "executionDate": "10/10/2019",
+    "expectedEnDate": "10/10/2019",
+    "ecceptanceDate": "10/10/2019",
+    "liquidationDate": "10/10/2019",
+    "actualStartDate": "10/10/2019",
+    "actualEndDate": "10/10/2019",
+    "adjustValue": "100,000,000",
+    "statusContract": {
+      "name": "Đang thực hiện",
+      "id": "sc1"
+    },
+    "expenseItem": "Chi phí mô hình",
+    "group": {
+      "id": "g1",
+      "name": "Chi phí chuẩn bị"
+    },
+    "unitModel": "cái",
+    "distribute": {
+      "id": "di1",
+      "name": "Nhà thầu nội bộ"
+    },
+    "contractValue": "100,000,000,000",
+    "appendix": "(3)",
+    "code": "00001",
+    "activity": "Xây dựng",
+    "accountNumber": "111111",
+    "bank": "BIDV",
+    "address": "Hai Bà Trưng, Hà Nội",
+    "price": "82,567",
+    "mass": "8,000",
+    "vatCost": "660,592,000",
+    "taxt": "66,059,200",
+    "post-taxCost": "726,651,200",
+    "massdeviation": "-8,000",
+    "moneydeviation": "-726,651,200",
+    "paid": "80,000,000",
+    "waitPay": "20,000,000",
+    "proposeDay": "10/10/2019",
+    "payApproval": "20,000,000",
+    "status": "duyệt"
+  },
+  {
+    "id": 4,
+    "contractSome": "HD/400/4000",
+    "contractName": "Xây thô tòa nhà S1,S2SD3",
+    "package": {
+      "id": "p1",
+      "name": "Xây thô"
+    },
+    "capital": {
+      "id": "c1",
+      "name": "Vốn vay"
+    },
+    "categori": {
+      "id": "ca1",
+      "name": "Xây dựng"
+    },
+    "partner": {
+      "id": "pa1",
+      "name": "Hòa Bình Construction"
+    },
+    "contractType": {
+      "id": "co1",
+      "name": "Hợp đồng nội bộ"
+    },
+    "contractStatus": {
+      "id": "cont1",
+      "name": "Đang thực hiện"
+    },
+    "categoryPrice": {
+      "id": "cP1",
+      "name": "Thí nghiệm cọc khoan nhồi"
+    },
+    "category": {
+      "id": "cc1",
+      "name": "Tường vây"
+    },
+    "content": "Trát tường trong, dày 1.5 cm, vữa XM mác 50",
+    "unit": {
+      "id": "u1",
+      "name": "m3"
+    },
+    "appendixContractNumber": "PL/190/337/UB",
+    "nameAppendixContract": "Phụ lục hợp đồng xây dựng tòa nhà S1,S2,D2",
+    "dateSignAppendixContract": "10/10/2019",
+    "executionDate": "10/10/2019",
+    "expectedEnDate": "10/10/2019",
+    "ecceptanceDate": "10/10/2019",
+    "liquidationDate": "10/10/2019",
+    "actualStartDate": "10/10/2019",
+    "actualEndDate": "10/10/2019",
+    "adjustValue": "100,000,000",
+    "statusContract": {
+      "name": "Đang thực hiện",
+      "id": "sc1"
+    },
+    "expenseItem": "Chi phí mô hình",
+    "group": {
+      "id": "g1",
+      "name": "Chi phí chuẩn bị"
+    },
+    "unitModel": "cái",
+    "distribute": {
+      "id": "di1",
+      "name": "Nhà thầu nội bộ"
+    },
+    "contractValue": "100,000,000,000",
+    "appendix": "(3)",
+    "code": "00001",
+    "activity": "Xây dựng",
+    "accountNumber": "111111",
+    "bank": "BIDV",
+    "address": "Hai Bà Trưng, Hà Nội",
+    "price": "82,567",
+    "mass": "8,000",
+    "vatCost": "660,592,000",
+    "taxt": "66,059,200",
+    "post-taxCost": "726,651,200",
+    "massdeviation": "-8,000",
+    "moneydeviation": "-726,651,200",
+    "paid": "80,000,000",
+    "waitPay": "20,000,000",
+    "proposeDay": "10/10/2019",
+    "payApproval": "20,000,000",
+    "status": "duyệt"
+  },
+  {
+    "id": 5,
+    "contractSome": "HD/100/2000",
+    "contractName": "Xây thô tòa nhà S1,S2SD3",
+    "package": {
+      "id": "p1",
+      "name": "Xây thô"
+    },
+    "capital": {
+      "id": "c1",
+      "name": "Vốn vay"
+    },
+    "categori": {
+      "id": "ca1",
+      "name": "Xây dựng"
+    },
+    "partner": {
+      "id": "pa1",
+      "name": "Hòa Bình Construction"
+    },
+    "contractType": {
+      "id": "co1",
+      "name": "Hợp đồng nội bộ"
+    },
+    "contractStatus": {
+      "id": "cont1",
+      "name": "Đang thực hiện"
+    },
+    "categoryPrice": {
+      "id": "cP1",
+      "name": "Thí nghiệm cọc khoan nhồi"
+    },
+    "category": {
+      "id": "cc1",
+      "name": "Tường vây"
+    },
+    "content": "Trát tường trong, dày 1.5 cm, vữa XM mác 50",
+    "unit": {
+      "id": "u1",
+      "name": "m3"
+    },
+    "appendixContractNumber": "PL/190/337/UB",
+    "nameAppendixContract": "Phụ lục hợp đồng xây dựng tòa nhà S1,S2,D2",
+    "dateSignAppendixContract": "10/10/2019",
+    "executionDate": "10/10/2019",
+    "expectedEnDate": "10/10/2019",
+    "ecceptanceDate": "10/10/2019",
+    "liquidationDate": "10/10/2019",
+    "actualStartDate": "10/10/2019",
+    "actualEndDate": "10/10/2019",
+    "adjustValue": "100,000,000",
+    "statusContract": {
+      "name": "Đang thực hiện",
+      "id": "sc1"
+    },
+    "expenseItem": "Chi phí mô hình",
+    "group": {
+      "id": "g1",
+      "name": "Chi phí chuẩn bị"
+    },
+    "unitModel": "cái",
+    "distribute": {
+      "id": "di1",
+      "name": "Nhà thầu nội bộ"
+    },
+    "contractValue": "100,000,000,000",
+    "appendix": "(3)",
+    "code": "00001",
+    "activity": "Xây dựng",
+    "accountNumber": "111111",
+    "bank": "BIDV",
+    "address": "Hai Bà Trưng, Hà Nội",
+    "price": "82,567",
+    "mass": "8,000",
+    "vatCost": "660,592,000",
+    "taxt": "66,059,200",
+    "post-taxCost": "726,651,200",
+    "massdeviation": "-8,000",
+    "moneydeviation": "-726,651,200",
+    "paid": "80,000,000",
+    "waitPay": "20,000,000",
+    "proposeDay": "10/10/2019",
+    "payApproval": "20,000,000",
+    "status": "duyệt"
+  },
+  {
+    "id": 6,
+    "contractSome": "HD/200/2000",
+    "contractName": "Xây thô tòa nhà S1,S2SD3",
+    "package": {
+      "id": "p1",
+      "name": "Xây thô"
+    },
+    "capital": {
+      "id": "c1",
+      "name": "Vốn vay"
+    },
+    "categori": {
+      "id": "ca1",
+      "name": "Xây dựng"
+    },
+    "partner": {
+      "id": "pa1",
+      "name": "Hòa Bình Construction"
+    },
+    "contractType": {
+      "id": "co1",
+      "name": "Hợp đồng nội bộ"
+    },
+    "contractStatus": {
+      "id": "cont1",
+      "name": "Đang thực hiện"
+    },
+    "categoryPrice": {
+      "id": "cP1",
+      "name": "Thí nghiệm cọc khoan nhồi"
+    },
+    "category": {
+      "id": "cc1",
+      "name": "Tường vây"
+    },
+    "content": "Trát tường trong, dày 1.5 cm, vữa XM mác 50",
+    "unit": {
+      "id": "u1",
+      "name": "m3"
+    },
+    "appendixContractNumber": "PL/190/337/UB",
+    "nameAppendixContract": "Phụ lục hợp đồng xây dựng tòa nhà S1,S2,D2",
+    "dateSignAppendixContract": "10/10/2019",
+    "executionDate": "10/10/2019",
+    "expectedEnDate": "10/10/2019",
+    "ecceptanceDate": "10/10/2019",
+    "liquidationDate": "10/10/2019",
+    "actualStartDate": "10/10/2019",
+    "actualEndDate": "10/10/2019",
+    "adjustValue": "100,000,000",
+    "statusContract": {
+      "name": "Đang thực hiện",
+      "id": "sc1"
+    },
+    "expenseItem": "Chi phí mô hình",
+    "group": {
+      "id": "g1",
+      "name": "Chi phí chuẩn bị"
+    },
+    "unitModel": "cái",
+    "distribute": {
+      "id": "di1",
+      "name": "Nhà thầu nội bộ"
+    },
+    "contractValue": "100,000,000,000",
+    "appendix": "(3)",
+    "code": "00001",
+    "activity": "Xây dựng",
+    "accountNumber": "111111",
+    "bank": "BIDV",
+    "address": "Hai Bà Trưng, Hà Nội",
+    "price": "82,567",
+    "mass": "8,000",
+    "vatCost": "660,592,000",
+    "taxt": "66,059,200",
+    "post-taxCost": "726,651,200",
+    "massdeviation": "-8,000",
+    "moneydeviation": "-726,651,200",
+    "paid": "80,000,000",
+    "waitPay": "20,000,000",
+    "proposeDay": "10/10/2019",
+    "payApproval": "20,000,000",
+    "status": "duyệt"
+  },
+  {
+    "id": 7,
+    "contractSome": "HD/100/2000",
+    "contractName": "Xây thô tòa nhà S1,S2SD3",
+    "package": {
+      "id": "p1",
+      "name": "Xây thô"
+    },
+    "capital": {
+      "id": "c1",
+      "name": "Vốn vay"
+    },
+    "categori": {
+      "id": "ca1",
+      "name": "Xây dựng"
+    },
+    "partner": {
+      "id": "pa1",
+      "name": "Hòa Bình Construction"
+    },
+    "contractType": {
+      "id": "co1",
+      "name": "Hợp đồng nội bộ"
+    },
+    "contractStatus": {
+      "id": "cont1",
+      "name": "Đang thực hiện"
+    },
+    "categoryPrice": {
+      "id": "cP1",
+      "name": "Thí nghiệm cọc khoan nhồi"
+    },
+    "category": {
+      "id": "cc1",
+      "name": "Tường vây"
+    },
+    "content": "Trát tường trong, dày 1.5 cm, vữa XM mác 50",
+    "unit": {
+      "id": "u1",
+      "name": "m3"
+    },
+    "appendixContractNumber": "PL/190/337/UB",
+    "nameAppendixContract": "Phụ lục hợp đồng xây dựng tòa nhà S1,S2,D2",
+    "dateSignAppendixContract": "10/10/2019",
+    "executionDate": "10/10/2019",
+    "expectedEnDate": "10/10/2019",
+    "ecceptanceDate": "10/10/2019",
+    "liquidationDate": "10/10/2019",
+    "actualStartDate": "10/10/2019",
+    "actualEndDate": "10/10/2019",
+    "adjustValue": "100,000,000",
+    "statusContract": {
+      "name": "Đang thực hiện",
+      "id": "sc1"
+    },
+    "expenseItem": "Chi phí mô hình",
+    "group": {
+      "id": "g1",
+      "name": "Chi phí chuẩn bị"
+    },
+    "unitModel": "cái",
+    "distribute": {
+      "id": "di1",
+      "name": "Nhà thầu nội bộ"
+    },
+    "contractValue": "100,000,000,000",
+    "appendix": "(3)",
+    "code": "00001",
+    "activity": "Xây dựng",
+    "accountNumber": "111111",
+    "bank": "BIDV",
+    "address": "Hai Bà Trưng, Hà Nội",
+    "price": "82,567",
+    "mass": "8,000",
+    "vatCost": "660,592,000",
+    "taxt": "66,059,200",
+    "post-taxCost": "726,651,200",
+    "massdeviation": "-8,000",
+    "moneydeviation": "-726,651,200",
+    "paid": "80,000,000",
+    "waitPay": "20,000,000",
+    "proposeDay": "10/10/2019",
+    "payApproval": "20,000,000",
+    "status": "duyệt"
+  },
+  {
+    "id": 8,
+    "contractSome": "HD/200/2000",
+    "contractName": "Xây thô tòa nhà S1,S2SD3",
+    "package": {
+      "id": "p1",
+      "name": "Xây thô"
+    },
+    "capital": {
+      "id": "c1",
+      "name": "Vốn vay"
+    },
+    "categori": {
+      "id": "ca1",
+      "name": "Xây dựng"
+    },
+    "partner": {
+      "id": "pa1",
+      "name": "Hòa Bình Construction"
+    },
+    "contractType": {
+      "id": "co1",
+      "name": "Hợp đồng nội bộ"
+    },
+    "contractStatus": {
+      "id": "cont1",
+      "name": "Đang thực hiện"
+    },
+    "categoryPrice": {
+      "id": "cP1",
+      "name": "Thí nghiệm cọc khoan nhồi"
+    },
+    "category": {
+      "id": "cc1",
+      "name": "Tường vây"
+    },
+    "content": "Trát tường trong, dày 1.5 cm, vữa XM mác 50",
+    "unit": {
+      "id": "u1",
+      "name": "m3"
+    },
+    "appendixContractNumber": "PL/190/337/UB",
+    "nameAppendixContract": "Phụ lục hợp đồng xây dựng tòa nhà S1,S2,D2",
+    "dateSignAppendixContract": "10/10/2019",
+    "executionDate": "10/10/2019",
+    "expectedEnDate": "10/10/2019",
+    "ecceptanceDate": "10/10/2019",
+    "liquidationDate": "10/10/2019",
+    "actualStartDate": "10/10/2019",
+    "actualEndDate": "10/10/2019",
+    "adjustValue": "100,000,000",
+    "statusContract": {
+      "name": "Đang thực hiện",
+      "id": "sc1"
+    },
+    "expenseItem": "Chi phí mô hình",
+    "group": {
+      "id": "g1",
+      "name": "Chi phí chuẩn bị"
+    },
+    "unitModel": "cái",
+    "distribute": {
+      "id": "di1",
+      "name": "Nhà thầu nội bộ"
+    },
+    "contractValue": "100,000,000,000",
+    "appendix": "(3)",
+    "code": "00001",
+    "activity": "Xây dựng",
+    "accountNumber": "111111",
+    "bank": "BIDV",
+    "address": "Hai Bà Trưng, Hà Nội",
+    "price": "82,567",
+    "mass": "8,000",
+    "vatCost": "660,592,000",
+    "taxt": "66,059,200",
+    "post-taxCost": "726,651,200",
+    "massdeviation": "-8,000",
+    "moneydeviation": "-726,651,200",
+    "paid": "80,000,000",
+    "waitPay": "20,000,000",
+    "proposeDay": "10/10/2019",
+    "payApproval": "20,000,000",
+    "status": "duyệt"
+  },
+  {
+    "id": 9,
+    "contractSome": "HD/100/2000",
+    "contractName": "Xây thô tòa nhà S1,S2SD3",
+    "package": {
+      "id": "p1",
+      "name": "Xây thô"
+    },
+    "capital": {
+      "id": "c1",
+      "name": "Vốn vay"
+    },
+    "categori": {
+      "id": "ca1",
+      "name": "Xây dựng"
+    },
+    "partner": {
+      "id": "pa1",
+      "name": "Hòa Bình Construction"
+    },
+    "contractType": {
+      "id": "co1",
+      "name": "Hợp đồng nội bộ"
+    },
+    "contractStatus": {
+      "id": "cont1",
+      "name": "Đang thực hiện"
+    },
+    "categoryPrice": {
+      "id": "cP1",
+      "name": "Thí nghiệm cọc khoan nhồi"
+    },
+    "category": {
+      "id": "cc1",
+      "name": "Tường vây"
+    },
+    "content": "Trát tường trong, dày 1.5 cm, vữa XM mác 50",
+    "unit": {
+      "id": "u1",
+      "name": "m3"
+    },
+    "appendixContractNumber": "PL/190/337/UB",
+    "nameAppendixContract": "Phụ lục hợp đồng xây dựng tòa nhà S1,S2,D2",
+    "dateSignAppendixContract": "10/10/2019",
+    "executionDate": "10/10/2019",
+    "expectedEnDate": "10/10/2019",
+    "ecceptanceDate": "10/10/2019",
+    "liquidationDate": "10/10/2019",
+    "actualStartDate": "10/10/2019",
+    "actualEndDate": "10/10/2019",
+    "adjustValue": "100,000,000",
+    "statusContract": {
+      "name": "Đang thực hiện",
+      "id": "sc1"
+    },
+    "expenseItem": "Chi phí mô hình",
+    "group": {
+      "id": "g1",
+      "name": "Chi phí chuẩn bị"
+    },
+    "unitModel": "cái",
+    "distribute": {
+      "id": "di1",
+      "name": "Nhà thầu nội bộ"
+    },
+    "contractValue": "100,000,000,000",
+    "appendix": "(3)",
+    "code": "00001",
+    "activity": "Xây dựng",
+    "accountNumber": "111111",
+    "bank": "BIDV",
+    "address": "Hai Bà Trưng, Hà Nội",
+    "price": "82,567",
+    "mass": "8,000",
+    "vatCost": "660,592,000",
+    "taxt": "66,059,200",
+    "post-taxCost": "726,651,200",
+    "massdeviation": "-8,000",
+    "moneydeviation": "-726,651,200",
+    "paid": "80,000,000",
+    "waitPay": "20,000,000",
+    "proposeDay": "10/10/2019",
+    "payApproval": "20,000,000",
+    "status": "duyệt"
+  },
+  {
+    "id": 10,
+    "contractSome": "HD/200/2000",
+    "contractName": "Xây thô tòa nhà S1,S2SD3",
+    "package": {
+      "id": "p1",
+      "name": "Xây thô"
+    },
+    "capital": {
+      "id": "c1",
+      "name": "Vốn vay"
+    },
+    "categori": {
+      "id": "ca1",
+      "name": "Xây dựng"
+    },
+    "partner": {
+      "id": "pa1",
+      "name": "Hòa Bình Construction"
+    },
+    "contractType": {
+      "id": "co1",
+      "name": "Hợp đồng nội bộ"
+    },
+    "contractStatus": {
+      "id": "cont1",
+      "name": "Đang thực hiện"
+    },
+    "categoryPrice": {
+      "id": "cP1",
+      "name": "Thí nghiệm cọc khoan nhồi"
+    },
+    "category": {
+      "id": "cc1",
+      "name": "Tường vây"
+    },
+    "content": "Trát tường trong, dày 1.5 cm, vữa XM mác 50",
+    "unit": {
+      "id": "u1",
+      "name": "m3"
+    },
+    "appendixContractNumber": "PL/190/337/UB",
+    "nameAppendixContract": "Phụ lục hợp đồng xây dựng tòa nhà S1,S2,D2",
+    "dateSignAppendixContract": "10/10/2019",
+    "executionDate": "10/10/2019",
+    "expectedEnDate": "10/10/2019",
+    "ecceptanceDate": "10/10/2019",
+    "liquidationDate": "10/10/2019",
+    "actualStartDate": "10/10/2019",
+    "actualEndDate": "10/10/2019",
+    "adjustValue": "100,000,000",
+    "statusContract": {
+      "name": "Đang thực hiện",
+      "id": "sc1"
+    },
+    "expenseItem": "Chi phí mô hình",
+    "group": {
+      "id": "g1",
+      "name": "Chi phí chuẩn bị"
+    },
+    "unitModel": "cái",
+    "distribute": {
+      "id": "di1",
+      "name": "Nhà thầu nội bộ"
+    },
+    "contractValue": "100,000,000,000",
+    "appendix": "(3)",
+    "code": "00001",
+    "activity": "Xây dựng",
+    "accountNumber": "111111",
+    "bank": "BIDV",
+    "address": "Hai Bà Trưng, Hà Nội",
+
+    "price": "82,567",
+    "mass": "8,000",
+    "vatCost": "660,592,000",
+    "taxt": "66,059,200",
+    "post-taxCost": "726,651,200",
+    "massdeviation": "-8,000",
+    "moneydeviation": "-726,651,200",
+    "paid": "80,000,000",
+    "waitPay": "20,000,000",
+    "proposeDay": "10/10/2019",
+    "payApproval": "20,000,000",
+    "status": "duyệt"
+  },
+  {
+    "id": 11,
+    "contractSome": "HD/100/2000",
+    "contractName": "Xây thô tòa nhà S1,S2SD3",
+    "package": {
+      "id": "p1",
+      "name": "Xây thô"
+    },
+    "capital": {
+      "id": "c1",
+      "name": "Vốn vay"
+    },
+    "categori": {
+      "id": "ca1",
+      "name": "Xây dựng"
+    },
+    "partner": {
+      "id": "pa1",
+      "name": "Hòa Bình Construction"
+    },
+    "contractType": {
+      "id": "co1",
+      "name": "Hợp đồng nội bộ"
+    },
+    "contractStatus": {
+      "id": "cont1",
+      "name": "Đang thực hiện"
+    },
+    "categoryPrice": {
+      "id": "cP1",
+      "name": "Thí nghiệm cọc khoan nhồi"
+    },
+    "category": {
+      "id": "cc1",
+      "name": "Tường vây"
+    },
+    "content": "Trát tường trong, dày 1.5 cm, vữa XM mác 50",
+    "unit": {
+      "id": "u1",
+      "name": "m3"
+    },
+    "appendixContractNumber": "PL/190/337/UB",
+    "nameAppendixContract": "Phụ lục hợp đồng xây dựng tòa nhà S1,S2,D2",
+    "dateSignAppendixContract": "10/10/2019",
+    "executionDate": "10/10/2019",
+    "expectedEnDate": "10/10/2019",
+    "ecceptanceDate": "10/10/2019",
+    "liquidationDate": "10/10/2019",
+    "actualStartDate": "10/10/2019",
+    "actualEndDate": "10/10/2019",
+    "adjustValue": "100,000,000",
+    "statusContract": {
+      "name": "Đang thực hiện",
+      "id": "sc1"
+    },
+    "expenseItem": "Chi phí mô hình",
+    "group": {
+      "id": "g1",
+      "name": "Chi phí chuẩn bị"
+    },
+    "unitModel": "cái",
+    "distribute": {
+      "id": "di1",
+      "name": "Nhà thầu nội bộ"
+    },
+    "contractValue": "100,000,000,000",
+    "appendix": "(3)",
+    "code": "00001",
+    "activity": "Xây dựng",
+    "accountNumber": "111111",
+    "bank": "BIDV",
+    "address": "Hai Bà Trưng, Hà Nội",
+    "price": "82,567",
+    "mass": "8,000",
+    "vatCost": "660,592,000",
+    "taxt": "66,059,200",
+    "post-taxCost": "726,651,200",
+    "massdeviation": "-8,000",
+    "moneydeviation": "-726,651,200",
+    "paid": "80,000,000",
+    "waitPay": "20,000,000",
+    "proposeDay": "10/10/2019",
+    "payApproval": "20,000,000",
+    "status": "duyệt"
+  },
+  {
+    "id": 12,
+    "contractSome": "HD/200/2000",
+    "contractName": "Xây thô tòa nhà S1,S2SD3",
+    "package": {
+      "id": "p1",
+      "name": "Xây thô"
+    },
+    "capital": {
+      "id": "c1",
+      "name": "Vốn vay"
+    },
+    "categori": {
+      "id": "ca1",
+      "name": "Xây dựng"
+    },
+    "partner": {
+      "id": "pa1",
+      "name": "Hòa Bình Construction"
+    },
+    "contractType": {
+      "id": "co1",
+      "name": "Hợp đồng nội bộ"
+    },
+    "contractStatus": {
+      "id": "cont1",
+      "name": "Đang thực hiện"
+    },
+    "categoryPrice": {
+      "id": "cP1",
+      "name": "Thí nghiệm cọc khoan nhồi"
+    },
+    "category": {
+      "id": "cc1",
+      "name": "Tường vây"
+    },
+    "content": "Trát tường trong, dày 1.5 cm, vữa XM mác 50",
+    "unit": {
+      "id": "u1",
+      "name": "m3"
+    },
+    "appendixContractNumber": "PL/190/337/UB",
+    "nameAppendixContract": "Phụ lục hợp đồng xây dựng tòa nhà S1,S2,D2",
+    "dateSignAppendixContract": "10/10/2019",
+    "executionDate": "10/10/2019",
+    "expectedEnDate": "10/10/2019",
+    "ecceptanceDate": "10/10/2019",
+    "liquidationDate": "10/10/2019",
+    "actualStartDate": "10/10/2019",
+    "actualEndDate": "10/10/2019",
+    "adjustValue": "100,000,000",
+    "statusContract": {
+      "name": "Đang thực hiện",
+      "id": "sc1"
+    },
+    "expenseItem": "Chi phí mô hình",
+    "group": {
+      "id": "g1",
+      "name": "Chi phí chuẩn bị"
+    },
+    "unitModel": "cái",
+    "distribute": {
+      "id": "di1",
+      "name": "Nhà thầu nội bộ"
+    },
+    "contractValue": "100,000,000,000",
+    "appendix": "(3)",
+    "code": "00001",
+    "activity": "Xây dựng",
+    "accountNumber": "111111",
+    "bank": "BIDV",
+    "address": "Hai Bà Trưng, Hà Nội",
+    "price": "82,567",
+    "mass": "8,000",
+    "vatCost": "660,592,000",
+    "taxt": "66,059,200",
+    "post-taxCost": "726,651,200",
+    "massdeviation": "-8,000",
+    "moneydeviation": "-726,651,200",
+    "paid": "80,000,000",
+    "waitPay": "20,000,000",
+    "proposeDay": "10/10/2019",
+    "payApproval": "20,000,000",
+    "status": "duyệt"
+  },
+  {
+    "id": 13,
+    "contractSome": "HD/100/2000",
+    "contractName": "Xây thô tòa nhà S1,S2SD3",
+    "package": {
+      "id": "p1",
+      "name": "Xây thô"
+    },
+    "capital": {
+      "id": "c1",
+      "name": "Vốn vay"
+    },
+    "categori": {
+      "id": "ca1",
+      "name": "Xây dựng"
+    },
+    "partner": {
+      "id": "pa1",
+      "name": "Hòa Bình Construction"
+    },
+    "contractType": {
+      "id": "co1",
+      "name": "Hợp đồng nội bộ"
+    },
+    "contractStatus": {
+      "id": "cont1",
+      "name": "Đang thực hiện"
+    },
+    "categoryPrice": {
+      "id": "cP1",
+      "name": "Thí nghiệm cọc khoan nhồi"
+    },
+    "category": {
+      "id": "cc1",
+      "name": "Tường vây"
+    },
+    "content": "Trát tường trong, dày 1.5 cm, vữa XM mác 50",
+    "unit": {
+      "id": "u1",
+      "name": "m3"
+    },
+    "appendixContractNumber": "PL/190/337/UB",
+    "nameAppendixContract": "Phụ lục hợp đồng xây dựng tòa nhà S1,S2,D2",
+    "dateSignAppendixContract": "10/10/2019",
+    "executionDate": "10/10/2019",
+    "expectedEnDate": "10/10/2019",
+    "ecceptanceDate": "10/10/2019",
+    "liquidationDate": "10/10/2019",
+    "actualStartDate": "10/10/2019",
+    "actualEndDate": "10/10/2019",
+    "adjustValue": "100,000,000",
+    "statusContract": {
+      "name": "Đang thực hiện",
+      "id": "sc1"
+    },
+    "expenseItem": "Chi phí mô hình",
+    "group": {
+      "id": "g1",
+      "name": "Chi phí chuẩn bị"
+    },
+    "unitModel": "cái",
+    "distribute": {
+      "id": "di1",
+      "name": "Nhà thầu nội bộ"
+    },
+    "contractValue": "100,000,000,000",
+    "appendix": "(3)",
+    "code": "00001",
+    "activity": "Xây dựng",
+    "accountNumber": "111111",
+    "bank": "BIDV",
+    "address": "Hai Bà Trưng, Hà Nội",
+    "price": "82,567",
+    "mass": "8,000",
+    "vatCost": "660,592,000",
+    "taxt": "66,059,200",
+    "post-taxCost": "726,651,200",
+    "massdeviation": "-8,000",
+    "moneydeviation": "-726,651,200",
+    "paid": "80,000,000",
+    "waitPay": "20,000,000",
+    "proposeDay": "10/10/2019",
+    "payApproval": "20,000,000",
+    "status": "duyệt"
+  },
+  {
+    "id": 14,
+    "contractSome": "HD/200/2000",
+    "contractName": "Xây thô tòa nhà S1,S2SD3",
+    "package": {
+      "id": "p1",
+      "name": "Xây thô"
+    },
+    "capital": {
+      "id": "c1",
+      "name": "Vốn vay"
+    },
+    "categori": {
+      "id": "ca1",
+      "name": "Xây dựng"
+    },
+    "partner": {
+      "id": "pa1",
+      "name": "Hòa Bình Construction"
+    },
+    "contractType": {
+      "id": "co1",
+      "name": "Hợp đồng nội bộ"
+    },
+    "contractStatus": {
+      "id": "cont1",
+      "name": "Đang thực hiện"
+    },
+    "categoryPrice": {
+      "id": "cP1",
+      "name": "Thí nghiệm cọc khoan nhồi"
+    },
+    "category": {
+      "id": "cc1",
+      "name": "Tường vây"
+    },
+    "content": "Trát tường trong, dày 1.5 cm, vữa XM mác 50",
+    "unit": {
+      "id": "u1",
+      "name": "m3"
+    },
+    "appendixContractNumber": "PL/190/337/UB",
+    "nameAppendixContract": "Phụ lục hợp đồng xây dựng tòa nhà S1,S2,D2",
+    "dateSignAppendixContract": "10/10/2019",
+    "executionDate": "10/10/2019",
+    "expectedEnDate": "10/10/2019",
+    "ecceptanceDate": "10/10/2019",
+    "liquidationDate": "10/10/2019",
+    "actualStartDate": "10/10/2019",
+    "actualEndDate": "10/10/2019",
+    "adjustValue": "100,000,000",
+    "statusContract": {
+      "name": "Đang thực hiện",
+      "id": "sc1"
+    },
+    "expenseItem": "Chi phí mô hình",
+    "group": {
+      "id": "g1",
+      "name": "Chi phí chuẩn bị"
+    },
+    "unitModel": "cái",
+    "distribute": {
+      "id": "di1",
+      "name": "Nhà thầu nội bộ"
+    },
+    "contractValue": "100,000,000,000",
+    "appendix": "(3)",
+    "code": "00001",
+    "activity": "Xây dựng",
+    "accountNumber": "111111",
+    "bank": "BIDV",
+    "address": "Hai Bà Trưng, Hà Nội",
+    "price": "82,567",
+    "mass": "8,000",
+    "vatCost": "660,592,000",
+    "taxt": "66,059,200",
+    "post-taxCost": "726,651,200",
+    "massdeviation": "-8,000",
+    "moneydeviation": "-726,651,200",
+    "paid": "80,000,000",
+    "waitPay": "20,000,000",
+    "proposeDay": "10/10/2019",
+    "payApproval": "20,000,000",
+    "status": "duyệt"
+  },
+  {
+    "id": 15,
+    "contractSome": "HD/100/2000",
+    "contractName": "Xây thô tòa nhà S1,S2SD3",
+    "package": {
+      "id": "p1",
+      "name": "Xây thô"
+    },
+    "capital": {
+      "id": "c1",
+      "name": "Vốn vay"
+    },
+    "categori": {
+      "id": "ca1",
+      "name": "Xây dựng"
+    },
+    "partner": {
+      "id": "pa1",
+      "name": "Hòa Bình Construction"
+    },
+    "contractType": {
+      "id": "co1",
+      "name": "Hợp đồng nội bộ"
+    },
+    "contractStatus": {
+      "id": "cont1",
+      "name": "Đang thực hiện"
+    },
+    "categoryPrice": {
+      "id": "cP1",
+      "name": "Thí nghiệm cọc khoan nhồi"
+    },
+    "category": {
+      "id": "cc1",
+      "name": "Tường vây"
+    },
+    "content": "Trát tường trong, dày 1.5 cm, vữa XM mác 50",
+    "unit": {
+      "id": "u1",
+      "name": "m3"
+    },
+    "appendixContractNumber": "PL/190/337/UB",
+    "nameAppendixContract": "Phụ lục hợp đồng xây dựng tòa nhà S1,S2,D2",
+    "dateSignAppendixContract": "10/10/2019",
+    "executionDate": "10/10/2019",
+    "expectedEnDate": "10/10/2019",
+    "ecceptanceDate": "10/10/2019",
+    "liquidationDate": "10/10/2019",
+    "actualStartDate": "10/10/2019",
+    "actualEndDate": "10/10/2019",
+    "adjustValue": "100,000,000",
+    "statusContract": {
+      "name": "Đang thực hiện",
+      "id": "sc1"
+    },
+    "expenseItem": "Chi phí mô hình",
+    "group": {
+      "id": "g1",
+      "name": "Chi phí chuẩn bị"
+    },
+    "unitModel": "cái",
+    "distribute": {
+      "id": "di1",
+      "name": "Nhà thầu nội bộ"
+    },
+    "contractValue": "100,000,000,000",
+    "appendix": "(3)",
+    "code": "00001",
+    "activity": "Xây dựng",
+    "accountNumber": "111111",
+    "bank": "BIDV",
+    "address": "Hai Bà Trưng, Hà Nội",
+    "price": "82,567",
+    "mass": "8,000",
+    "vatCost": "660,592,000",
+    "taxt": "66,059,200",
+    "post-taxCost": "726,651,200",
+    "massdeviation": "-8,000",
+    "moneydeviation": "-726,651,200",
+    "paid": "80,000,000",
+    "waitPay": "20,000,000",
+    "proposeDay": "10/10/2019",
+    "payApproval": "20,000,000",
+    "status": "duyệt"
+  },
+  {
+    "id": 16,
+    "contractSome": "HD/200/2000",
+    "contractName": "Xây thô tòa nhà S1,S2SD3",
+    "package": {
+      "id": "p1",
+      "name": "Xây thô"
+    },
+    "capital": {
+      "id": "c1",
+      "name": "Vốn vay"
+    },
+    "categori": {
+      "id": "ca1",
+      "name": "Xây dựng"
+    },
+    "partner": {
+      "id": "pa1",
+      "name": "Hòa Bình Construction"
+    },
+    "contractType": {
+      "id": "co1",
+      "name": "Hợp đồng nội bộ"
+    },
+    "contractStatus": {
+      "id": "cont1",
+      "name": "Đang thực hiện"
+    },
+    "categoryPrice": {
+      "id": "cP1",
+      "name": "Thí nghiệm cọc khoan nhồi"
+    },
+    "category": {
+      "id": "cc1",
+      "name": "Tường vây"
+    },
+    "content": "Trát tường trong, dày 1.5 cm, vữa XM mác 50",
+    "unit": {
+      "id": "u1",
+      "name": "m3"
+    },
+    "appendixContractNumber": "PL/190/337/UB",
+    "nameAppendixContract": "Phụ lục hợp đồng xây dựng tòa nhà S1,S2,D2",
+    "dateSignAppendixContract": "10/10/2019",
+    "executionDate": "10/10/2019",
+    "expectedEnDate": "10/10/2019",
+    "ecceptanceDate": "10/10/2019",
+    "liquidationDate": "10/10/2019",
+    "actualStartDate": "10/10/2019",
+    "actualEndDate": "10/10/2019",
+    "adjustValue": "100,000,000",
+    "statusContract": {
+      "name": "Đang thực hiện",
+      "id": "sc1"
+    },
+    "expenseItem": "Chi phí mô hình",
+    "group": {
+      "id": "g1",
+      "name": "Chi phí chuẩn bị"
+    },
+    "unitModel": "cái",
+    "distribute": {
+      "id": "di1",
+      "name": "Nhà thầu nội bộ"
+    },
+    "contractValue": "100,000,000,000",
+    "appendix": "(3)",
+    "code": "00001",
+    "activity": "Xây dựng",
+    "accountNumber": "111111",
+    "bank": "BIDV",
+    "address": "Hai Bà Trưng, Hà Nội",
+    "price": "82,567",
+    "mass": "8,000",
+    "vatCost": "660,592,000",
+    "taxt": "66,059,200",
+    "post-taxCost": "726,651,200",
+    "massdeviation": "-8,000",
+    "moneydeviation": "-726,651,200",
+    "paid": "80,000,000",
+    "waitPay": "20,000,000",
+    "proposeDay": "10/10/2019",
+    "payApproval": "20,000,000",
+    "status": "duyệt"
+  },
+  {
+    "id": 17,
+    "contractSome": "HD/100/2000",
+    "contractName": "Xây thô tòa nhà S1,S2SD3",
+    "package": {
+      "id": "p1",
+      "name": "Xây thô"
+    },
+    "capital": {
+      "id": "c1",
+      "name": "Vốn vay"
+    },
+    "categori": {
+      "id": "ca1",
+      "name": "Xây dựng"
+    },
+    "partner": {
+      "id": "pa1",
+      "name": "Hòa Bình Construction"
+    },
+    "contractType": {
+      "id": "co1",
+      "name": "Hợp đồng nội bộ"
+    },
+    "contractStatus": {
+      "id": "cont1",
+      "name": "Đang thực hiện"
+    },
+    "categoryPrice": {
+      "id": "cP1",
+      "name": "Thí nghiệm cọc khoan nhồi"
+    },
+    "category": {
+      "id": "cc1",
+      "name": "Tường vây"
+    },
+    "content": "Trát tường trong, dày 1.5 cm, vữa XM mác 50",
+    "unit": {
+      "id": "u1",
+      "name": "m3"
+    },
+    "appendixContractNumber": "PL/190/337/UB",
+    "nameAppendixContract": "Phụ lục hợp đồng xây dựng tòa nhà S1,S2,D2",
+    "dateSignAppendixContract": "10/10/2019",
+    "executionDate": "10/10/2019",
+    "expectedEnDate": "10/10/2019",
+    "ecceptanceDate": "10/10/2019",
+    "liquidationDate": "10/10/2019",
+    "actualStartDate": "10/10/2019",
+    "actualEndDate": "10/10/2019",
+    "adjustValue": "100,000,000",
+    "statusContract": {
+      "name": "Đang thực hiện",
+      "id": "sc1"
+    },
+    "expenseItem": "Chi phí mô hình",
+    "group": {
+      "id": "g1",
+      "name": "Chi phí chuẩn bị"
+    },
+    "unitModel": "cái",
+    "distribute": {
+      "id": "di1",
+      "name": "Nhà thầu nội bộ"
+    },
+    "contractValue": "100,000,000,000",
+    "appendix": "(3)",
+    "code": "00001",
+    "activity": "Xây dựng",
+    "accountNumber": "111111",
+    "bank": "BIDV",
+    "address": "Hai Bà Trưng, Hà Nội",
+    "price": "82,567",
+    "mass": "8,000",
+    "vatCost": "660,592,000",
+    "taxt": "66,059,200",
+    "post-taxCost": "726,651,200",
+    "massdeviation": "-8,000",
+    "moneydeviation": "-726,651,200",
+    "paid": "80,000,000",
+    "waitPay": "20,000,000",
+    "proposeDay": "10/10/2019",
+    "payApproval": "20,000,000",
+    "status": "duyệt"
+  },
+  {
+    "id": 18,
+    "contractSome": "HD/200/2000",
+    "contractName": "Xây thô tòa nhà S1,S2SD3",
+    "package": {
+      "id": "p1",
+      "name": "Xây thô"
+    },
+    "capital": {
+      "id": "c1",
+      "name": "Vốn vay"
+    },
+    "categori": {
+      "id": "ca1",
+      "name": "Xây dựng"
+    },
+    "partner": {
+      "id": "pa1",
+      "name": "Hòa Bình Construction"
+    },
+    "contractType": {
+      "id": "co1",
+      "name": "Hợp đồng nội bộ"
+    },
+    "contractStatus": {
+      "id": "cont1",
+      "name": "Đang thực hiện"
+    },
+    "categoryPrice": {
+      "id": "cP1",
+      "name": "Thí nghiệm cọc khoan nhồi"
+    },
+    "category": {
+      "id": "cc1",
+      "name": "Tường vây"
+    },
+    "content": "Trát tường trong, dày 1.5 cm, vữa XM mác 50",
+    "unit": {
+      "id": "u1",
+      "name": "m3"
+    },
+    "appendixContractNumber": "PL/190/337/UB",
+    "nameAppendixContract": "Phụ lục hợp đồng xây dựng tòa nhà S1,S2,D2",
+    "dateSignAppendixContract": "10/10/2019",
+    "executionDate": "10/10/2019",
+    "expectedEnDate": "10/10/2019",
+    "ecceptanceDate": "10/10/2019",
+    "liquidationDate": "10/10/2019",
+    "actualStartDate": "10/10/2019",
+    "actualEndDate": "10/10/2019",
+    "adjustValue": "100,000,000",
+    "statusContract": {
+      "name": "Đang thực hiện",
+      "id": "sc1"
+    },
+    "expenseItem": "Chi phí mô hình",
+    "group": {
+      "id": "g1",
+      "name": "Chi phí chuẩn bị"
+    },
+    "unitModel": "cái",
+    "distribute": {
+      "id": "di1",
+      "name": "Nhà thầu nội bộ"
+    },
+    "contractValue": "100,000,000,000",
+    "appendix": "(3)",
+    "code": "00001",
+    "activity": "Xây dựng",
+    "accountNumber": "111111",
+    "bank": "BIDV",
+    "address": "Hai Bà Trưng, Hà Nội",
+    "price": "82,567",
+    "mass": "8,000",
+    "vatCost": "660,592,000",
+    "taxt": "66,059,200",
+    "post-taxCost": "726,651,200",
+    "massdeviation": "-8,000",
+    "moneydeviation": "-726,651,200",
+    "paid": "80,000,000",
+    "waitPay": "20,000,000",
+    "proposeDay": "10/10/2019",
+    "payApproval": "20,000,000",
+    "status": "duyệt"
+  },
+  {
+    "id": 19,
+    "contractSome": "HD/100/2000",
+    "contractName": "Xây thô tòa nhà S1,S2SD3",
+    "package": {
+      "id": "p1",
+      "name": "Xây thô"
+    },
+    "capital": {
+      "id": "c1",
+      "name": "Vốn vay"
+    },
+    "categori": {
+      "id": "ca1",
+      "name": "Xây dựng"
+    },
+    "partner": {
+      "id": "pa1",
+      "name": "Hòa Bình Construction"
+    },
+    "contractType": {
+      "id": "co1",
+      "name": "Hợp đồng nội bộ"
+    },
+    "contractStatus": {
+      "id": "cont1",
+      "name": "Đang thực hiện"
+    },
+    "categoryPrice": {
+      "id": "cP1",
+      "name": "Thí nghiệm cọc khoan nhồi"
+    },
+    "category": {
+      "id": "cc1",
+      "name": "Tường vây"
+    },
+    "content": "Trát tường trong, dày 1.5 cm, vữa XM mác 50",
+    "unit": {
+      "id": "u1",
+      "name": "m3"
+    },
+    "appendixContractNumber": "PL/190/337/UB",
+    "nameAppendixContract": "Phụ lục hợp đồng xây dựng tòa nhà S1,S2,D2",
+    "dateSignAppendixContract": "10/10/2019",
+    "executionDate": "10/10/2019",
+    "expectedEnDate": "10/10/2019",
+    "ecceptanceDate": "10/10/2019",
+    "liquidationDate": "10/10/2019",
+    "actualStartDate": "10/10/2019",
+    "actualEndDate": "10/10/2019",
+    "adjustValue": "100,000,000",
+    "statusContract": {
+      "name": "Đang thực hiện",
+      "id": "sc1"
+    },
+    "expenseItem": "Chi phí mô hình",
+    "group": {
+      "id": "g1",
+      "name": "Chi phí chuẩn bị"
+    },
+    "unitModel": "cái",
+    "distribute": {
+      "id": "di1",
+      "name": "Nhà thầu nội bộ"
+    },
+    "contractValue": "100,000,000,000",
+    "appendix": "(3)",
+    "code": "00001",
+    "activity": "Xây dựng",
+    "accountNumber": "111111",
+    "bank": "BIDV",
+    "address": "Hai Bà Trưng, Hà Nội",
+    "price": "82,567",
+    "mass": "8,000",
+    "vatCost": "660,592,000",
+    "taxt": "66,059,200",
+    "post-taxCost": "726,651,200",
+    "massdeviation": "-8,000",
+    "moneydeviation": "-726,651,200",
+    "paid": "80,000,000",
+    "waitPay": "20,000,000",
+    "proposeDay": "10/10/2019",
+    "payApproval": "20,000,000",
+    "status": "duyệt"
+  },
+  {
+    "id": 20,
+    "contractSome": "HD/200/2000",
+    "contractName": "Xây thô tòa nhà S1,S2SD3",
+    "package": {
+      "id": "p1",
+      "name": "Xây thô"
+    },
+    "capital": {
+      "id": "c1",
+      "name": "Vốn vay"
+    },
+    "categori": {
+      "id": "ca1",
+      "name": "Xây dựng"
+    },
+    "partner": {
+      "id": "pa1",
+      "name": "Hòa Bình Construction"
+    },
+    "contractType": {
+      "id": "co1",
+      "name": "Hợp đồng nội bộ"
+    },
+    "contractStatus": {
+      "id": "cont1",
+      "name": "Đang thực hiện"
+    },
+    "categoryPrice": {
+      "id": "cP1",
+      "name": "Thí nghiệm cọc khoan nhồi"
+    },
+    "category": {
+      "id": "cc1",
+      "name": "Tường vây"
+    },
+    "content": "Trát tường trong, dày 1.5 cm, vữa XM mác 50",
+    "unit": {
+      "id": "u1",
+      "name": "m3"
+    },
+    "appendixContractNumber": "PL/190/337/UB",
+    "nameAppendixContract": "Phụ lục hợp đồng xây dựng tòa nhà S1,S2,D2",
+    "dateSignAppendixContract": "10/10/2019",
+    "executionDate": "10/10/2019",
+    "expectedEnDate": "10/10/2019",
+    "ecceptanceDate": "10/10/2019",
+    "liquidationDate": "10/10/2019",
+    "actualStartDate": "10/10/2019",
+    "actualEndDate": "10/10/2019",
+    "adjustValue": "100,000,000",
+    "statusContract": {
+      "name": "Đang thực hiện",
+      "id": "sc1"
+    },
+    "expenseItem": "Chi phí mô hình",
+    "group": {
+      "id": "g1",
+      "name": "Chi phí chuẩn bị"
+    },
+    "unitModel": "cái",
+    "distribute": {
+      "id": "di1",
+      "name": "Nhà thầu nội bộ"
+    },
+    "contractValue": "100,000,000,000",
+    "appendix": "(3)",
+    "code": "00001",
+    "activity": "Xây dựng",
+    "accountNumber": "111111",
+    "bank": "BIDV",
+    "address": "Hai Bà Trưng, Hà Nội",
+    "price": "82,567",
+    "mass": "8,000",
+    "vatCost": "660,592,000",
+    "taxt": "66,059,200",
+    "post-taxCost": "726,651,200",
+    "massdeviation": "-8,000",
+    "moneydeviation": "-726,651,200",
+    "paid": "80,000,000",
+    "waitPay": "20,000,000",
+    "proposeDay": "10/10/2019",
+    "payApproval": "20,000,000",
+    "status": "duyệt"
+  },
+
+  {
+    "id": 21,
+    "contractSome": "HD/200/2000",
+    "contractName": "Xây thô tòa nhà S1,S2SD3",
+    "package": {
+      "id": "p1",
+      "name": "Xây thô"
+    },
+    "capital": {
+      "id": "c1",
+      "name": "Vốn vay"
+    },
+    "categori": {
+      "id": "ca1",
+      "name": "Xây dựng"
+    },
+    "partner": {
+      "id": "pa1",
+      "name": "Hòa Bình Construction"
+    },
+    "contractType": {
+      "id": "co1",
+      "name": "Hợp đồng nội bộ"
+    },
+    "contractStatus": {
+      "id": "cont1",
+      "name": "Đang thực hiện"
+    },
+    "categoryPrice": {
+      "id": "cP1",
+      "name": "Thí nghiệm cọc khoan nhồi"
+    },
+    "category": {
+      "id": "cc1",
+      "name": "Tường vây"
+    },
+    "content": "Trát tường trong, dày 1.5 cm, vữa XM mác 50",
+    "unit": {
+      "id": "u1",
+      "name": "m3"
+    },
+    "appendixContractNumber": "PL/190/337/UB",
+    "nameAppendixContract": "Phụ lục hợp đồng xây dựng tòa nhà S1,S2,D2",
+    "dateSignAppendixContract": "10/10/2019",
+    "executionDate": "10/10/2019",
+    "expectedEnDate": "10/10/2019",
+    "ecceptanceDate": "10/10/2019",
+    "liquidationDate": "10/10/2019",
+    "actualStartDate": "10/10/2019",
+    "actualEndDate": "10/10/2019",
+    "adjustValue": "100,000,000",
+    "statusContract": {
+      "name": "Đang thực hiện",
+      "id": "sc1"
+    },
+    "expenseItem": "Chi phí mô hình",
+    "group": {
+      "id": "g1",
+      "name": "Chi phí chuẩn bị"
+    },
+    "unitModel": "cái",
+    "distribute": {
+      "id": "di1",
+      "name": "Nhà thầu nội bộ"
+    },
+    "contractValue": "100,000,000,000",
+    "appendix": "(3)",
+    "code": "00001",
+    "activity": "Xây dựng",
+    "accountNumber": "111111",
+    "bank": "BIDV",
+    "address": "Hai Bà Trưng, Hà Nội",
+    "price": "82,567",
+    "mass": "8,000",
+    "vatCost": "660,592,000",
+    "taxt": "66,059,200",
+    "post-taxCost": "726,651,200",
+    "massdeviation": "-8,000",
+    "moneydeviation": "-726,651,200",
+    "paid": "80,000,000",
+    "waitPay": "20,000,000",
+    "proposeDay": "10/10/2019",
+    "payApproval": "20,000,000",
+    "status": "duyệt"
+  },
+  {
+    "id": 21,
+    "contractSome": "HD/100/2000",
+    "contractName": "Xây thô tòa nhà S1,S2SD3",
+    "package": {
+      "id": "p1",
+      "name": "Xây thô"
+    },
+    "capital": {
+      "id": "c1",
+      "name": "Vốn vay"
+    },
+    "categori": {
+      "id": "ca1",
+      "name": "Xây dựng"
+    },
+    "partner": {
+      "id": "pa1",
+      "name": "Hòa Bình Construction"
+    },
+    "contractType": {
+      "id": "co1",
+      "name": "Hợp đồng nội bộ"
+    },
+    "contractStatus": {
+      "id": "cont1",
+      "name": "Đang thực hiện"
+    },
+    "categoryPrice": {
+      "id": "cP1",
+      "name": "Thí nghiệm cọc khoan nhồi"
+    },
+    "category": {
+      "id": "cc1",
+      "name": "Tường vây"
+    },
+    "content": "Trát tường trong, dày 1.5 cm, vữa XM mác 50",
+    "unit": {
+      "id": "u1",
+      "name": "m3"
+    },
+    "appendixContractNumber": "PL/190/337/UB",
+    "nameAppendixContract": "Phụ lục hợp đồng xây dựng tòa nhà S1,S2,D2",
+    "dateSignAppendixContract": "10/10/2019",
+    "executionDate": "10/10/2019",
+    "expectedEnDate": "10/10/2019",
+    "ecceptanceDate": "10/10/2019",
+    "liquidationDate": "10/10/2019",
+    "actualStartDate": "10/10/2019",
+    "actualEndDate": "10/10/2019",
+    "adjustValue": "100,000,000",
+    "statusContract": {
+      "name": "Đang thực hiện",
+      "id": "sc1"
+    },
+    "expenseItem": "Chi phí mô hình",
+    "group": {
+      "id": "g1",
+      "name": "Chi phí chuẩn bị"
+    },
+    "unitModel": "cái",
+    "distribute": {
+      "id": "di1",
+      "name": "Nhà thầu nội bộ"
+    },
+    "contractValue": "100,000,000,000",
+    "appendix": "(3)",
+    "code": "00001",
+    "activity": "Xây dựng",
+    "accountNumber": "111111",
+    "bank": "BIDV",
+    "address": "Hai Bà Trưng, Hà Nội",
+    "price": "82,567",
+    "mass": "8,000",
+    "vatCost": "660,592,000",
+    "taxt": "66,059,200",
+    "post-taxCost": "726,651,200",
+    "massdeviation": "-8,000",
+    "moneydeviation": "-726,651,200",
+    "paid": "80,000,000",
+    "waitPay": "20,000,000",
+    "proposeDay": "10/10/2019",
+    "payApproval": "20,000,000",
+    "status": "duyệt"
+  },
+  {
+    "id": 22,
+    "contractSome": "HD/200/2000",
+    "contractName": "Xây thô tòa nhà S1,S2SD3",
+    "package": {
+      "id": "p1",
+      "name": "Xây thô"
+    },
+    "capital": {
+      "id": "c1",
+      "name": "Vốn vay"
+    },
+    "categori": {
+      "id": "ca1",
+      "name": "Xây dựng"
+    },
+    "partner": {
+      "id": "pa1",
+      "name": "Hòa Bình Construction"
+    },
+    "contractType": {
+      "id": "co1",
+      "name": "Hợp đồng nội bộ"
+    },
+    "contractStatus": {
+      "id": "cont1",
+      "name": "Đang thực hiện"
+    },
+    "categoryPrice": {
+      "id": "cP1",
+      "name": "Thí nghiệm cọc khoan nhồi"
+    },
+    "category": {
+      "id": "cc1",
+      "name": "Tường vây"
+    },
+    "content": "Trát tường trong, dày 1.5 cm, vữa XM mác 50",
+    "unit": {
+      "id": "u1",
+      "name": "m3"
+    },
+    "appendixContractNumber": "PL/190/337/UB",
+    "nameAppendixContract": "Phụ lục hợp đồng xây dựng tòa nhà S1,S2,D2",
+    "dateSignAppendixContract": "10/10/2019",
+    "executionDate": "10/10/2019",
+    "expectedEnDate": "10/10/2019",
+    "ecceptanceDate": "10/10/2019",
+    "liquidationDate": "10/10/2019",
+    "actualStartDate": "10/10/2019",
+    "actualEndDate": "10/10/2019",
+    "adjustValue": "100,000,000",
+    "statusContract": {
+      "name": "Đang thực hiện",
+      "id": "sc1"
+    },
+    "expenseItem": "Chi phí mô hình",
+    "group": {
+      "id": "g1",
+      "name": "Chi phí chuẩn bị"
+    },
+    "unitModel": "cái",
+    "distribute": {
+      "id": "di1",
+      "name": "Nhà thầu nội bộ"
+    },
+    "contractValue": "100,000,000,000",
+    "appendix": "(3)",
+    "code": "00001",
+    "activity": "Xây dựng",
+    "accountNumber": "111111",
+    "bank": "BIDV",
+    "address": "Hai Bà Trưng, Hà Nội",
+    "price": "82,567",
+    "mass": "8,000",
+    "vatCost": "660,592,000",
+    "taxt": "66,059,200",
+    "post-taxCost": "726,651,200",
+    "massdeviation": "-8,000",
+    "moneydeviation": "-726,651,200",
+    "paid": "80,000,000",
+    "waitPay": "20,000,000",
+    "proposeDay": "10/10/2019",
+    "payApproval": "20,000,000",
+    "status": "duyệt"
+  }
+]

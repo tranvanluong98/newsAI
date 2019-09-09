@@ -1,0 +1,106 @@
+import { Button, Drawer, Icon, Tabs } from 'antd';
+import React, { useCallback, useState, useMemo, useEffect } from 'react';
+import classnames from 'classnames';
+
+import theme from '@/common.less';
+import styles from './index.less';
+
+const EditDrawerTabs = ({
+  visible,
+  children,
+  resource,
+  id,
+  basePath,
+  redirectOnSuccess,
+  ...rest
+<<<<<<< HEAD
+}) => (
+=======
+}) => {
+  const [stack, updateStack] = useState([children]);
+
+  const childrenArray = useMemo(
+    () => (Array.isArray(children) ? children : React.Children.toArray(children)),
+    [children],
+  );
+  const [activeTab, updateActiveTab] = useState(childrenArray[0] && childrenArray[0].props.name);
+
+  useEffect(() => {
+    updateActiveTab(childrenArray[0] && childrenArray[0].props.name);
+  }, [children, childrenArray]);
+
+  console.log(
+    'activeTab ',
+    activeTab,
+    'firstTabs ',
+    childrenArray[0],
+    ' children Array ',
+    childrenArray,
+  );
+
+  const rmFromStack = useCallback(() => {
+    if (stack.length < 1) {
+      return;
+    }
+
+    updateStack(stack.slice(0, stack.length - 1));
+  }, [stack]);
+
+  const pushInStack = useCallback(
+    newShow => {
+      const newStack = [...stack].concat(newShow);
+      updateStack(newStack);
+    },
+    [stack],
+  );
+
+  const tabsContent = useMemo(() => {
+    const tC = {};
+    childrenArray.forEach(child => {
+      if (child.props.name) {
+        tC[child.props.name] = child;
+      }
+    });
+    return tC;
+  }, [childrenArray]);
+
+  console.log('tabsContent ', tabsContent);
+
+  const title = useMemo(() => {
+    if (stack.length > 1) {
+      return (
+        <div>
+          <Button className={theme.flex} onClick={rmFromStack}>
+            <Icon type="arrow-left" />
+          </Button>
+          {stack.splice(-1).title}
+        </div>
+      );
+    }
+    try {
+      React.Children.only(children);
+      return children.props.title;
+    } catch (error) {
+      return (
+        <Tabs activeKey={activeTab} onChange={key => updateActiveTab(key)}>
+          {childrenArray.map(
+            tab => tab.props.name && <Tabs.TabPane tab={tab.props.title} key={tab.props.name} />,
+          )}
+        </Tabs>
+      );
+    }
+  }, [activeTab, children, childrenArray, rmFromStack, stack]);
+
+  return (
+>>>>>>> feature/ConstructionPage
+    <Drawer
+      width={520}
+      visible={visible}
+      {...rest}
+    >
+    </Drawer>
+  );
+
+EditDrawerTabs.whyDidYouRender = true;
+
+export default React.memo(EditDrawerTabs);

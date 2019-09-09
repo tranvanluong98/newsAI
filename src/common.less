@@ -1,0 +1,131 @@
+@import "~antd/lib/style/themes/default.less";
+
+.iconBtn {
+  border: 0;
+  padding-left: 0;
+  padding-right: 0;
+  display: flex;
+  justify-content: center;
+  box-shadow: 0 0 0;
+  width: 32px;
+  height: 32px;
+  background: transparent;
+  &:focus {
+    background: transparent;
+  }
+  &:hover {
+    background: transparent;
+  }
+}
+.flex {
+  display: flex;
+}
+
+.flexColumn {
+  display: flex;
+  flex-direction: column;
+}
+
+.flexGrow1 {
+  flex-grow: 1;
+}
+
+.fontBase {
+  font-size: @font-size-base;
+}
+
+.font-sm {
+  font-size: @font-size-sm;
+}
+
+.warning {
+  color: @warning-color;
+}
+
+.success {
+  color: @success-color;
+}
+.danger {
+  color: @error-color;
+}
+
+.editFormToolbar {
+  display: flex;
+  padding: 0 12px;
+  justify-content: space-between;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  padding-bottom: 12px;
+}
+
+.w100 {
+  width: 100%;
+}
+
+.flexAlignItemCenter {
+  display: flex;
+  align-items: center;
+}
+
+.flexShrink0 {
+  flex-shrink: 0;
+}
+
+.flexJustifyCenter {
+  display: flex;
+  justify-content: center;
+}
+
+.flexSpaceBetween {
+  display: flex;
+  justify-content: space-between;
+}
+
+.pointerCursor {
+  cursor: pointer;
+}
+.title {
+  font-weight: bold;
+  color: black;
+}
+.constructionUnit {
+  display: flex;
+  justify-content: space-between;
+  margin: 13px 0 4px 0;
+}
+.btnFormConstruction {
+  margin-top: 29px;
+}
+
+:global {
+  .fade-enter {
+    opacity: 0.01;
+  }
+
+  .fade-enter.fade-enter-active {
+    opacity: 1;
+    transition: opacity 500ms ease-in;
+  }
+
+  .fade-leave {
+    opacity: 1;
+  }
+
+  .fade-leave.fade-leave-active {
+    opacity: 0.01;
+    transition: opacity 300ms ease-in;
+  }
+}
+
+.buttonMarginRight {
+  margin-right: 7px;
+}
+
+.noPaddingDrawer {
+  :global(.ant-drawer-body) {
+    padding: 0;
+  }
+}
+
+.inlineBlock {
+  display: inline-block;
+}
